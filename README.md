@@ -35,6 +35,7 @@ The first 2 chapters are introductory and thus this repo also does not delve dee
 - NumPy
 - pandas
 - Matplotlib
+- pyreadr
 
 
 ---
