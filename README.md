@@ -1,6 +1,6 @@
 # Python Companion to *Real Econometrics* by Michael Bailey
 
-This repository is a personal **Python** learning project in which I recreate the examples, figures, and selected exercises from the second edition of *Real Econometrics* by Michael A. Bailey using Python.
+This repository is a personal **Python** learning project in which I recreate the examples, figures, and selected exercises from the second edition of *Real Econometrics* by Michael A. Bailey.
 
 The textbook provides implementations in Stata and R. My goal is to develop Python equivalents while deepening my understanding of econometrics, statistical computing, and scientific programming, all while strengthening my Python programming skills.
 
@@ -14,7 +14,7 @@ Over the years, I have found that the best way for me to learn is by building pr
 
 This repository is an attempt to recreate and document the same learning process for Python. By translating the examples, figures, and exercises from *Real Econometrics* into Python, I hope to strengthen both my programming skills and my understanding of econometrics.
 
-I have great admiration for Michael Bailey's *Real Econometrics*. While the book teaches econometrics using Stata and R, this repository serves as my companion project for learning Python through the same material.
+I have great admiration for Michael Bailey's Real Econometrics. The book's teaching style strongly resonated with the way I learn and that is why I picked it as the book for this project. 
 
 > **Note:** This is **not** an official companion to the textbook. It is an independent educational project created for practice and learning.
 
@@ -39,8 +39,8 @@ Each chapter contains Python implementations corresponding to the material cover
 
 ## Current Progress
 
-- [x] Chapter 1
-- [x] Chapter 2
+- [ ] Chapter 1
+- [ ] Chapter 2
 - [ ] Chapter 3
 
 *(This checklist will be updated as I progress through the book.)*
