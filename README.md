@@ -26,6 +26,8 @@ I have great admiration for Michael Bailey's Real Econometrics. The book's teach
 
 Each chapter contains Python implementations corresponding to the material covered in *Real Econometrics*. Brief descriptions of the underlying concepts are included where necessary to provide context and explain the objective of the code. This repository is not intended to teach the material covered in the textbook or serve as a replacement for it.
 
+The first 2 chapters are introductory and thus this repo also does not delve deep into them
+
 ---
 
 ## Libraries
