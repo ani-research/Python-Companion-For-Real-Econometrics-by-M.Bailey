@@ -43,6 +43,7 @@ I recognize that many parts of the code, especially the figures can be automated
 - NumPy
 - pandas
 - Matplotlib
+- scipy
 - pyreadr
 
 
