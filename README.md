@@ -24,9 +24,17 @@ I have great admiration for Michael Bailey's Real Econometrics. The book's teach
 
 ## Repository Structure
 
+Basic knowledge of python and the libraries numpy, matplotlib, and pandas is expected.
+
+Recommended resources for these are: 
+* Python Crash Course by Eric Matthes
+* Python for Data Analysis by Wes Mckinney
+* [Kenity Galli](https://www.youtube.com/@KeithGalli/playlists) and [Mr. P Solver](https://www.youtube.com/@MrPSolver/courses) on Youtube
+* 
+
 Each chapter contains Python implementations corresponding to the material covered in *Real Econometrics*. Brief descriptions of the underlying concepts are included where necessary to provide context and explain the objective of the code. This repository is not intended to teach the material covered in the textbook or serve as a replacement for it.
 
-The first 2 chapters are introductory and thus this repo also does not delve deep into them
+I recognize that many parts of the code, especially the figures can be automated by the use of class and functions however I have chosen not to do so, so that I can keep practicing them.  
 
 ---
 
@@ -42,8 +50,8 @@ The first 2 chapters are introductory and thus this repo also does not delve dee
 
 ## Current Progress
 
-- [ ] Chapter 1
-- [ ] Chapter 2
+- [X] Chapter 1
+- [X] Chapter 2
 - [ ] Chapter 3
 
 *(This checklist will be updated as I progress through the book.)*
