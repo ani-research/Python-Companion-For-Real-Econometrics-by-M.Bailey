@@ -51,9 +51,9 @@ I recognize that many parts of the code, especially the figures can be automated
 
 ## Current Progress
 
-- [x] Chapter 1
-- [x] Chapter 2
-- [x] Chapter 3
+- ✅ Chapter 1
+- ✅ Chapter 2
+- ✅ Chapter 3
 - [ ] Chapter 4
 
 *(This checklist will be updated as I progress through the book.)*
