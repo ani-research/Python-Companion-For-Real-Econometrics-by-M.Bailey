@@ -45,7 +45,7 @@ I recognize that many parts of the code, especially the figures can be automated
 - Matplotlib
 - scipy
 - pyreadr
-
+- StatsModels
 
 ---
 
