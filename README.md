@@ -30,7 +30,6 @@ Recommended resources for these are:
 * Python Crash Course by Eric Matthes
 * Python for Data Analysis by Wes Mckinney
 * [Kenity Galli](https://www.youtube.com/@KeithGalli/playlists) and [Mr. P Solver](https://www.youtube.com/@MrPSolver/courses) on Youtube
-* 
 
 Each chapter contains Python implementations corresponding to the material covered in *Real Econometrics*. Brief descriptions of the underlying concepts are included where necessary to provide context and explain the objective of the code. This repository is not intended to teach the material covered in the textbook or serve as a replacement for it.
 
