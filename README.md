@@ -51,10 +51,10 @@ I recognize that many parts of the code, especially the figures can be automated
 
 ## Current Progress
 
-- ✅ Chapter 1
-- ✅ Chapter 2
-- ✅ Chapter 3
-- [ ] Chapter 4
+- ✅ Chapter 1, Quest for Causality
+- ✅ Chapter 2, Stats in the wild
+- ✅ Chapter 3, Bivariate OLS
+- [ ] Chapter 4, Hypothesis Testing and Interval Estimation
 
 *(This checklist will be updated as I progress through the book.)*
 
