@@ -42,6 +42,7 @@ I recognize that many parts of the code, especially the figures can be automated
 - NumPy
 - pandas
 - Matplotlib
+- seaborn
 - scipy
 - pyreadr
 - StatsModels
@@ -53,7 +54,9 @@ I recognize that many parts of the code, especially the figures can be automated
 - ✅ Chapter 1, Quest for Causality
 - ✅ Chapter 2, Stats in the wild
 - ✅ Chapter 3, Bivariate OLS
-- [ ] Chapter 4, Hypothesis Testing and Interval Estimation
+- ✅ Chapter 4, Hypothesis Testing and Interval Estimation
+- ✅ Chapter 5, Multivariate OLS
+- ✅ Chapter 6, Dummy Variables
 
 *(This checklist will be updated as I progress through the book.)*
 
